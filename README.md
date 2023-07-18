@@ -10,7 +10,7 @@ ARIMA.py------------------------------------------------------for Question 1 wit
 ARIMA-simplified version.py---------------------------------simplified version for ARIMA<br>
 <br
 <b>Environments Required:Lingo</b><br>
-lingo.lg4------------------------------------------------------linear programming code<br>
+lingo.lg4-------------------------------------------------------linear programming code<br>
 <br>
 ---------------
 <b>Copyright © Shaozhuo Huang,Jiali Liu,Ziao Wang
