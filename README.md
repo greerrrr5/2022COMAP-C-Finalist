@@ -8,7 +8,7 @@
 <b>Environments Required:Python3</b><br>
 ARIMA.py------------------------------------------------------for Question 1 with commits<br>
 ARIMA-simplified version.py---------------------------------simplified version for ARIMA<br>
-<br
+<br>
 <b>Environments Required:Lingo</b><br>
 lingo.lg4-------------------------------------------------------linear programming code<br>
 <br>
