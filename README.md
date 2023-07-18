@@ -2,7 +2,6 @@
 2022 U.S. Collegiate Mathematical Modeling Competition, Problem C - Finalist
 
 ## File Instructions
-
 2022_MCM_ICM_Problems-------------------------Problems for 2022<br>
 2204128.pdf-----------------------------------------paper<br>
 <br>
